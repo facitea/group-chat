@@ -35,7 +35,7 @@ const ProfileSettings = () => {
 
   return (
     <div style={{ margin: '20px 0' }}>
-      <h2>Profile Settings</h2>
+      {/* <h2>프로필 설정</h2>
       <form onSubmit={handleUpdateProfile}>
         <div>
           <label>Display Name:</label>
@@ -62,7 +62,7 @@ const ProfileSettings = () => {
           />
         </div>
         <button type="submit">Update Profile</button>
-      </form>
+      </form> */}
     </div>
   );
 };
